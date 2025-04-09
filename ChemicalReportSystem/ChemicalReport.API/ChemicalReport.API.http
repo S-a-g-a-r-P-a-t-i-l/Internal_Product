@@ -1,0 +1,6 @@
+@ChemicalReport.API_HostAddress = http://localhost:5153
+
+GET {{ChemicalReport.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
